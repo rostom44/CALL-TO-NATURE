@@ -17,19 +17,9 @@ export default function RepeatWindow() {
     SetLeftWindow(Math.random() * 960);
     setTimeRemaining(timeRemaining + 5);
 
-    // Create a new audio element and set its src attribute to the current image's lien property
-    const audioElement = document.createElement("audio");
-    audioElement.src = dataMignon.data[counter].sound_cool;
-    audioElement.controls = false;
-    audioElement.onLoadedMetadata = (e) => {
-      e.target.currentTime = 0;
-      e.target.duration = 4;
-      e.target.play();
-    };
-
-    // Append the audio element to the window div
-    const windowDiv = document.querySelector(".window");
-    windowDiv.appendChild(audioElement);
+    // Play audio when the close button is clicked
+    const audio = new Audio(data.data[counter].sound_cool);
+    audio.play();
   }
 
   useEffect(() => {
