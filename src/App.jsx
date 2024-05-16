@@ -1,9 +1,13 @@
 import "./App.css";
-
+import Header from "./components/Header";
+import RepeatWindow from "./components/RepeatWindow";
 function App() {
-  return <>
-    <RepeatWindow/>
-  </>;
+  return (
+    <>
+      <Header />
+      <RepeatWindow />
+    </>
+  );
 }
 
 export default App;
