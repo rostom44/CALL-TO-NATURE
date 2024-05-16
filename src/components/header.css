@@ -11,18 +11,18 @@
 .scroll_box {
   left: 0;
   bottom: 0;
-  width: 100%;
+  width: 100vw;
   background-color: #363636;
   color: white;
   padding: 0.02rem;
   text-align: center;
   overflow: hidden;
-  word-spacing: 0.8rem;
+  word-spacing: 1rem;
 }
 
 .scrolling-text {
   white-space: nowrap;
-  animation: scroll 3s linear infinite;
+  animation: scroll 2.8s linear infinite;
 }
 
 @keyframes scroll {

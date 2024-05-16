@@ -8,7 +8,8 @@ export default function Header() {
         <div className="scrolling-text">
           <h2>
             NATURE NATURE NATURE NATURE NATURE NATURE NATURE NATURE NATURE
-            NATURE NATURE NATURE NATURE NATURE
+            NATURE NATURE NATURE NATURE NATURE NATURE NATURE NATURE NATURE
+            NATURE
           </h2>
         </div>
       </div>
