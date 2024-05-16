@@ -1,15 +1,12 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
-}
 body {
   margin: 0;
   padding: 0;
   height: 100vh; /* Set height to 100% of viewport height */
   background-image: url("src/assets/bg-nature.gif"); /* Path to your GIF file */
   background-size: cover;
+  width: 100%;
+  background-attachment: fixed;
+  overflow-x: hidden;
 }
 
 .logo {
@@ -23,4 +20,29 @@ body {
 }
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
+}
+.scroll_box {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #363636;
+  color: white;
+  padding: 0.02rem;
+  text-align: center;
+  overflow: hidden;
+  word-spacing: 0.8rem;
+}
+
+.scrolling-text {
+  white-space: nowrap;
+  animation: scroll 3s linear infinite;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
 }
