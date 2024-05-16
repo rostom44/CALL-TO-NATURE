@@ -24,7 +24,7 @@ export default function RepeatWindow() {
     if (counter !== data.length-1){
     SetCounter(counter+1);
     }
-    SetTopWindow(Math.random()* 523);
+    SetTopWindow(Math.random()* 450);
     SetLeftWindow(Math.random()* 960);
 
   }
