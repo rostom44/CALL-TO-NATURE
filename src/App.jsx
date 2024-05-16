@@ -1,7 +1,12 @@
 import "./App.css";
+import TimerStart from "./TimerStart";
 
 function App() {
-  return <></>;
+  return (
+    <div>
+      <TimerStart />
+    </div>
+  );
 }
 
 export default App;

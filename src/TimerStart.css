@@ -1,0 +1,61 @@
+.timer {
+  border: 1px black solid;
+  color: red;
+  height: 5rem;
+  width: 23rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  position: absolute;
+  top: 1rem;
+  right: 2rem;
+  border-radius: 0.5rem;
+  font-weight: bold;
+}
+
+.btnTimer {
+  position: absolute;
+  top: 30%;
+  left: 40%;
+}
+
+.btnTimer button {
+  border-radius: 50%;
+  background-color: red;
+  height: 300px;
+  width: 300px;
+  color:white;
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+.btnTimer button:before {
+  background: black;
+  position: absolute;
+  border-radius: 50%;
+  z-index: -1;
+  bottom: 1px;
+  right: 1px;
+  height: 300px;
+  width: 300px;
+  opacity: 0;
+  content: "";
+  animation: pulse 1s infinite;
+}
+.btnTimer button :hover::before {
+  animation: none;
+  opacity: 0.4;
+  transform: scale(1.3);
+}
+
+@keyframes pulse {
+  from {
+    transform: scale(1);
+    opacity: 0.4;
+  }
+  to {
+    transform: scale(1.3);
+    opacity: 0;
+  }
+}
