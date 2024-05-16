@@ -25,9 +25,11 @@ export default function RepeatWindow() {
     if (counter !== data.length - 1) {
       SetCounter(counter + 1);
     }
+
     SetTopWindow(Math.random() * 523);
     SetLeftWindow(Math.random() * 960);
     setTimeRemaining(timeRemaining + 5);
+
   }
 
   useEffect(() => {

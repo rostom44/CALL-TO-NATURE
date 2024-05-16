@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import "./TimerStart.css";
 
-function TimerStart() {
+function TimerStart({setTimeDone}) {
   const [time, setTime] = useState(10);
   const [isActive, setIsActive] = useState(false);
   const [buttonVisible, setButtonVisible] = useState(true);
@@ -29,6 +29,7 @@ function TimerStart() {
       setIsActive(false);
       setButtonVisible(false);
       setTimeVisible(false);
+      setTimeDone(true);
     }
   }, [time]);
 
