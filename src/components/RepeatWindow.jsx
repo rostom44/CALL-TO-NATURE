@@ -1,6 +1,6 @@
 import "./RepeatWindow.css";
 import { useState, useEffect } from "react";
-import dataMignon from '../assets/images_mignon.json'
+import data from '../assets/images_mignon.json'
 
 export default function RepeatWindow() {
   const [counter, SetCounter] = useState(0);
@@ -9,7 +9,7 @@ export default function RepeatWindow() {
   const [timeRemaining, setTimeRemaining] = useState(1800);
 
   function handleClick() {
-    if (counter !== dataMignon.length - 1) {
+    if (counter !== data.data.length - 1) {
       SetCounter(counter + 1);
     }
 
@@ -38,8 +38,8 @@ export default function RepeatWindow() {
             X
           </button>
         </div>
-        <img alt={dataMignon.data[counter].index} src={dataMignon.data[counter].lien} />
-        <p>{dataMignon.data[counter].index}</p>
+        <img alt={data.data[counter].format} src={data.data[counter].lien} />
+        <p>{data.data[counter].index}</p>
         <button>JE FAIS MA PAUSE</button>
       </div>
       <div className="secondTimer">
