@@ -1,6 +1,6 @@
 import "./RepeatWindow.css";
 import { useState, useEffect } from "react";
-import data from '../assets/images_mignon.json'
+import data from "../assets/images_mignon.json";
 
 export default function RepeatWindow() {
   const [counter, SetCounter] = useState(0);
@@ -17,6 +17,9 @@ export default function RepeatWindow() {
     SetLeftWindow(Math.random() * 960);
     setTimeRemaining(timeRemaining + 5);
 
+    // Play audio when the close button is clicked
+    const audio = new Audio(data.data[counter].sound_cool);
+    audio.play();
   }
 
   useEffect(() => {
