@@ -1,0 +1,18 @@
+.window {
+  border: solid 0.5rem black;
+  max-width: 30vw;
+  background-color: #EFE8C5;
+  position: absolute;
+}
+
+.topWindow {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  color: white;
+}
+
+.topWindow button {
+  background-color: green;
+  color: white;
+}
