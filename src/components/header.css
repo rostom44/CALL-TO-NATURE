@@ -1,0 +1,8 @@
+.logo {
+  width: 2rem;
+  height: 2rem;
+}
+.head {
+  display: flex;
+  justify-content: space-between;
+}
