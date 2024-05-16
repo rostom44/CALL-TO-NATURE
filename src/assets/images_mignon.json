@@ -14,7 +14,7 @@
       "index": 0,
       "format": "image",
       "categorie": "mignon",
-      "lien": "./assets/Mignon/animal-cat-scary-domestic.jpg"
+      "lien": "../assets/Mignon/animal-cat-scary-domestic.jpg"
     },
     {
       "index": 1,
