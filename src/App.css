@@ -24,28 +24,3 @@ body {
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
-.scroll_box {
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: #363636;
-  color: white;
-  padding: 0.02rem;
-  text-align: center;
-  overflow: hidden;
-  word-spacing: 0.8rem;
-}
-
-.scrolling-text {
-  white-space: nowrap;
-  animation: scroll 3s linear infinite;
-}
-
-@keyframes scroll {
-  0% {
-    transform: translateX(100%);
-  }
-  100% {
-    transform: translateX(-100%);
-  }
-}
