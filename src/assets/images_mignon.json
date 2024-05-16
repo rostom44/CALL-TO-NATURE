@@ -14,259 +14,409 @@
       "index": 0,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/animal-cat-scary-domestic.jpg"
+      "lien": "../assets/Mignon/animal-cat-scary-domestic.jpg",
+      "citation" : "Si tu travailles avec un marteau-piqueur pendant un tremblement de terre, désynchronise-toi, sinon tu travailles pour rien.",
+      "sound_cool": "../assets/sons_soft/scary-monster-growl-roar-11-202957.mp3"
     },
     {
       "index": 1,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/bart-owl-weird-bird-animal-world-funny.jpg"
+      "lien": "./assets/Mignon/bart-owl-weird-bird-animal-world-funny.jpg", 
+      "citation" : "Celui qui préfère le sourire à la colère est toujours le plus fort.",
+      "sound_cool":"../assets/sons_soft/alien-voice-102709.mp3"
     },
     {
       "index": 2,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/david-clode-0izux0eMf28-unsplash.jpg"
+      "lien": "./assets/Mignon/david-clode-0izux0eMf28-unsplash.jpg", 
+      "citation" :"Tourne-toi vers le soleil et l’ombre sera derrière toi.",
+      "sound_cool":"../assets/sons_soft/angry-beast-6172.mp3"
     },
     {
       "index": 3,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/david-valentine-bEyXKvGYwtM-unsplash.jpg"
+      "lien": "./assets/Mignon/david-valentine-bEyXKvGYwtM-unsplash.jpg", 
+      "citation" :"« La vie, ce n’est pas d’attendre que les orages passent, c’est d’apprendre à danser sous la pluie. »",
+      "sound_cool":"../assets/sons_soft/atomic-hampster-dance-stinger-94303.mp3"
     },
     {
       "index": 4,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/images (1).jpeg"
+      "lien": "./assets/Mignon/images (1).jpeg", 
+      "citation" : "Dans la nature, on trouve la paix qui échappe souvent à la ville agitée.",
+      "sound_cool":"../assets/sons_soft/b8_snoring-80948.mp3"
     },
     {
       "index": 5,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/images (2).jpeg"
+      "lien": "./assets/Mignon/images (2).jpeg", 
+      "citation" :"Parfois, il faut s'éloigner du bruit du monde pour entendre le murmure de la nature.",
+      "sound_cool":"../assets/sons_soft/baby-laughter2-15231.mp3"
     },
     {
       "index": 6,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/images (3).jpeg"
+      "lien": "./assets/Mignon/images (3).jpeg", 
+      "citation" :"",
+      "sound_cool":"../assets/sons_soft/boat-horn-6204.mp3"
     },
     {
       "index": 7,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/images (4).jpeg"
+      "lien": "./assets/Mignon/images (4).jpeg", 
+      "citation" :"La nature est le meilleur remède pour soigner l'âme fatiguée par la technologie.",
+      "sound_cool":"../assets/sons_soft/burp-37726.mp3"
     },
     {
       "index": 8,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/images (6).jpeg"
+      "lien": "./assets/Mignon/images (6).jpeg", 
+      "citation" :"Lorsque nous nous perdons dans la nature, c'est souvent là que nous nous retrouvons.",
+      "sound_cool":"../assets/sons_soft/car-horns-153261.mp3"
     },
     {
       "index": 9,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/images (7).jpeg"
+      "lien": "./assets/Mignon/images (7).jpeg", 
+      "citation" :"Se déconnecter du virtuel pour se connecter à la beauté naturelle qui nous entoure.",
+      "sound_cool":"../assets/sons_soft/cats-meow-81221.mp3"
     },
     {
       "index": 10,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/images (8).jpeg"
+      "lien": "./assets/Mignon/images (8).jpeg", 
+      "citation" :"Respirez profondément et sentez la sérénité de la nature vous envahir.",
+      "sound_cool":"../assets/sons_soft/child-ha-ha-103936.mp3"
     },
     {
       "index": 11,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/téléchargement (24).jpeg"
+      "lien": "./assets/Mignon/téléchargement (24).jpeg", 
+      "citation" :"",
+      "sound_cool":"../assets/sons_soft/collect-points-190037.mp3"
     },
     {
       "index": 12,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/images (9).jpeg"
+      "lien": "./assets/Mignon/images (9).jpeg", 
+      "citation" :"Les arbres sont les antennes qui captent les messages de la terre et les transmettent à nos âmes.",
+      "sound_cool":"../assets/sons_soft/comic5-25269.mp3"
     },
     {
       "index": 13,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/images (10).jpeg"
+      "lien": "./assets/Mignon/images (10).jpeg", 
+      "citation" :"Chaque brin d'herbe nous enseigne la patience, la résilience et la simplicité.",
+      "sound_cool":"../assets/sons_soft/cowabunga-voiced-165997.mp3"
     },
     {
       "index": 14,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/téléchargement (46).jpeg"
+      "lien": "./assets/Mignon/téléchargement (46).jpeg", 
+      "citation" : "",
+      "sound_cool" : "../assets/sons_soft/cry-of-a-peacock_animal-sound-145793.mp3"
     },
     {
       "index": 15,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/images (16).jpeg"
+      "lien": "./assets/Mignon/images (16).jpeg", 
+      "citation" :"La nature ne se précipite jamais, pourtant tout est accompli.",
+      "sound_cool":"../assets/sons_soft/crowd-applauding-198627.mp3"
     },
     {
       "index": 16,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/images (17).jpeg"
+      "lien": "./assets/Mignon/images (17).jpeg", 
+      "citation" :"",
+      "sound_cool":"../assets/sons_soft/cute-animal-squeak-4-188098.mp3"
     },
     {
       "index": 17,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/images (18).jpeg"
+      "lien": "./assets/Mignon/images (18).jpeg", 
+      "citation" :"Regarder les étoiles nous rappelle à quel point nous sommes petits dans l'immensité de l'univers.",
+      "sound_cool":"../assets/sons_soft/dj-airhorn-sound-39405.mp3"
     },
     {
       "index": 18,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/images (19).jpeg"
+      "lien": "./assets/Mignon/images (19).jpeg", 
+      "citation" :"La nature est le meilleur thérapeute, offrant ses remèdes gratuitement à qui sait les recevoir.",
+      "sound_cool":"../assets/sons_soft/dog-barking-70772.mp3"
     },
     {
       "index": 19,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/images (23).jpeg"
+      "lien": "./assets/Mignon/images (23).jpeg", 
+      "citation" :"Se perdre dans la forêt peut être la meilleure manière de se retrouver.",
+      "sound_cool":"../assets/sons_soft/dont-touch-me-68893.mp3"
     },
     {
       "index": 20,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/images (24).jpeg"
+      "lien": "./assets/Mignon/images (24).jpeg", 
+      "citation" :"Dans la nature, chaque lever de soleil est une nouvelle chance, une nouvelle naissance.",
+      "sound_cool":"../assets/sons_soft/eas-alarm-81032.mp3/"
     },
     {
       "index": 21,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/images (25).jpeg"
+      "lien": "./assets/Mignon/images (25).jpeg", 
+      "citation" :"Le silence de la nature est parfois le plus puissant des discours.",
+      "sound_cool":"../assets/sons_soft/eas-alarm-81032.mp3"
     },
     {
       "index": 22,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/images (26).jpeg"
+      "lien": "./assets/Mignon/images (26).jpeg", 
+      "citation" :"La nature n'a pas besoin de filtres pour être belle, elle est pure et authentique.",
+      "sound_cool":"../assets/sons_soft/elf-singing-89296.mp3"
     },
     {
       "index": 23,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/images (27).jpeg"
+      "lien": "./assets/Mignon/images (27).jpeg", 
+      "citation" :"S'éloigner de l'écran pour se rapprocher des étoiles.",
+      "sound_cool":"../assets/sons_soft/emergency-alarm-with-reverb-29431.mp3"
     },
     {
       "index": 24,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/images (34).jpeg"
+      "lien": "./assets/Mignon/images (34).jpeg", 
+      "citation" :"La nature nous rappelle que la vraie richesse se trouve dans la simplicité.",
+      "sound_cool":"../assets/sons_soft/epic-trap-intro-185815.mp3"
     },
     {
       "index": 25,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/images (35).jpeg"
+      "lien": "./assets/Mignon/images (35).jpeg", 
+      "citation" :"Marcher pieds nus sur l'herbe nous relie directement à la terre et à ses énergies bienfaisantes.",
+      "sound_cool":"../assets/sons_soft/flock-of-crows-ravens-cawing-129073.mp3"
     },
     {
       "index": 26,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/téléchargement (9).jpeg"
+      "lien": "./assets/Mignon/téléchargement (9).jpeg", 
+      "citation" :"La vie sauvage nous enseigne la liberté, la spontanéité et l'adaptabilité.",
+      "sound_cool":"../assets/sons_soft/funny-and-comical-melody-glide-synth-bass-and-trumpet-21398.mp3"
     },
     {
       "index": 27,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/téléchargement (23).jpeg"
+      "lien": "./assets/Mignon/téléchargement (23).jpeg", 
+      "citation" :"Dans la nature, chaque saison a son charme, chaque instant est unique.",
+      "sound_cool":"../assets/sons_soft/funny-evil-cartoon-voice-with-laugh-14623.mp3"
     },
     {
       "index": 28,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/téléchargement (25).jpeg"
+      "lien": "./assets/Mignon/téléchargement (25).jpeg", 
+      "citation" :"La nature est un livre ouvert, il suffit de savoir lire ses pages pour découvrir ses trésors cachés.",
+      "sound_cool":"../assets/sons_soft/glass-hit-192119.mp3"
     },
     {
       "index": 29,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/téléchargement (26).jpeg"
+      "lien": "./assets/Mignon/téléchargement (26).jpeg", 
+      "citation" :"La technologie nous connecte au monde, mais la nature nous connecte à nous-mêmes.",
+      "sound_cool":"../assets/sons_soft/goofy-ahh-car-horn-200870.mp3"
     },
     {
       "index": 30,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/téléchargement (27).jpeg"
+      "lien": "src/assets/Mignon/téléchargement (27).jpeg",
+      "citation" :"",
+      "sound_cool":"../assets/sons_soft/huh-001-120387.mp3"
     },
     {
       "index": 31,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/téléchargement (28).jpeg"
+      "lien": "./assets/Mignon/téléchargement (28).jpeg", 
+      "citation" : "Les montagnes nous rappellent que les obstacles sont là pour être surmontés, pas pour nous arrêter.",
+      "sound_cool":"../assets/sons_soft/jaw-harp-68036.mp3"
     },
     {
       "index": 32,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/téléchargement (29).jpeg"
+      "lien": "./assets/Mignon/téléchargement (29).jpeg", 
+      "citation" : "Lorsque nous marchons dans la nature, nous marchons aussi en nous-mêmes, découvrant des paysages intérieurs insoupçonnés.",
+      "sound_cool":"../assets/sons_soft/la-charte-trompette-64523.mp3"
     },
     {
       "index": 33,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/téléchargement (32).jpeg"
+      "lien": "./assets/Mignon/téléchargement (32).jpeg", 
+      "citation" : "La simplicité de la nature est la clé de sa beauté éternelle.",
+      "sound_cool":"../assets/sons_soft/london-blitz-190097.mp3"
     },
     {
       "index": 34,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/téléchargement (33).jpeg"
+      "lien": "./assets/Mignon/téléchargement (33).jpeg", 
+      "citation" : "Dans le silence des grands espaces, nos pensées s'apaisent et notre esprit s'élève.",
+      "sound_cool":"../assets/sons_soft/mario-grabish-14183.mp3"
     },
     {
       "index": 35,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/téléchargement (34).jpeg"
+      "lien": "./assets/Mignon/téléchargement (34).jpeg", 
+      "citation" : "La nature nous rappelle que nous sommes tous interconnectés, faisant partie d'un vaste écosystème.",
+      "sound_cool":"../assets/sons_soft/medieval-fanfare-6826.mp3"
     },
     {
       "index": 36,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/téléchargement (35).jpeg"
+      "lien": "./assets/Mignon/téléchargement (35).jpeg", 
+      "citation" : "Respecter la nature, c'est se respecter soi-même et les générations futures.",
+      "sound_cool":"../assets/sons_soft/mooing-cow-122255.mp3"
     },
     {
       "index": 37,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/téléchargement (36).jpeg"
+      "lien": "./assets/Mignon/téléchargement (36).jpeg", 
+      "citation" : "La déconnexion de l'agitation du monde moderne peut nous reconnecter à l'essentiel : la vie, dans toute sa splendeur.",
+      "sound_cool":"../assets/sons_soft/my-good-120319.mp3"
     },
     {
       "index": 38,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/téléchargement (37).jpeg"
+      "lien": "./assets/Mignon/téléchargement (37).jpeg", 
+      "citation" : "",
+      "sound_cool":"../assets/sons_soft/oh-no-the-car-exploded-10632.mp3"
     },
     {
       "index": 39,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/téléchargement (39).jpeg"
+      "lien": "./assets/Mignon/téléchargement (39).jpeg",
+      "citation" : "",
+      "sound_cool":"../assets/sons_soft/one-language-i-speak-for-some-reason-181274.mp3"
     },
     {
       "index": 40,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/téléchargement (40).jpeg"
+      "lien": "./assets/Mignon/téléchargement (40).jpeg",
+      "citation" : "",
+      "sound_cool":"../assets/sons_soft/pet.mp3"
     },
     {
       "index": 41,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/téléchargement (41).jpeg"
+      "lien": "src/assets/Mignon/téléchargement (41).jpeg",
+      "citation" : "",
+      "sound_cool":"../assets/sons_soft/pipe-117724.mp3"
     },
     {
       "index": 42,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/téléchargement (43).jpeg"
+      "lien": "./assets/Mignon/téléchargement (43).jpeg",
+      "citation" : "",
+      "sound_cool":"../assets/sons_soft/robot-noises-70217.mp3"
+    },
+    {
+      "index": 43,
+      "format": "image",
+      "categorie": "mignon",
+      "lien": "./assets/Mignon/téléchargement (43).jpeg",
+      "citation" : "",
+      "sound_cool":"../assets/sons_soft/scary-monster-growl-roar-11-202957.mp3"
+    },
+    {
+      "index": 44,
+      "format": "image",
+      "categorie": "mignon",
+      "lien": "./assets/Mignon/téléchargement (43).jpeg",
+      "citation" : "",
+      "sound_cool":"../assets/sons_soft/sinister-laugh-140131.mp3"
+    },
+    {
+      "index": 45,
+      "format": "image",
+      "categorie": "mignon",
+      "lien": "./assets/Mignon/téléchargement (43).jpeg",
+      "citation" : "",
+      "sound_cool":"../assets/sons_soft/small-dog-barking-102658.mp3"
+    },
+    {
+      "index": 46,
+      "format": "image",
+      "categorie": "mignon",
+      "lien": "./assets/Mignon/téléchargement (43).jpeg",
+      "citation" : "",
+      "sound_cool":"../assets/sons_soft/small-rock-break-194553.mp3"
+    },
+    {
+      "index": 47,
+      "format": "image",
+      "categorie": "mignon",
+      "lien": "./assets/Mignon/téléchargement (43).jpeg",
+      "citation" : "",
+      "sound_cool":"../assets/sons_soft/steam-train-at-crossing-62158.mp3"
+    },
+    {
+      "index": 48,
+      "format": "image",
+      "categorie": "mignon",
+      "lien": "./assets/Mignon/téléchargement (43).jpeg",
+      "citation" : "",
+      "sound_cool":"../assets/sons_soft/steam-train-at-crossing-62158.mp3"
+    },
+    {
+      "index": 49,
+      "format": "image",
+      "categorie": "mignon",
+      "lien": "./assets/Mignon/téléchargement (43).jpeg",
+      "citation" : "",
+      "sound_cool":"../assets/sons_soft/toy-ducks-quacking-82167.mp3"
+    },
+    {
+      "index": 50,
+      "format": "image",
+      "categorie": "mignon",
+      "lien": "./assets/Mignon/téléchargement (43).jpeg",
+      "citation" : "",
+      "sound_cool":"../assets/sons_soft/wet-fart-6139.mp3"
     }
   ]
 }
