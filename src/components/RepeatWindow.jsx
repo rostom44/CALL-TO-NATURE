@@ -21,7 +21,9 @@ export default function RepeatWindow() {
   ];
 
   function handleClick(){
+    if (counter !== data.length-1){
     SetCounter(counter+1);
+    }
     SetTopWindow(Math.random()* 523);
     SetLeftWindow(Math.random()* 960);
 

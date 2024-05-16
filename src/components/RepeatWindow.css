@@ -4,6 +4,9 @@
   background-color: #EFE8C5;
   position: absolute;
   z-index: 1;
+  display : flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .topWindow {
@@ -11,6 +14,7 @@
   justify-content: space-between;
   background-color: black;
   color: white;
+  width: 100%;
 }
 
 .topWindow button {
