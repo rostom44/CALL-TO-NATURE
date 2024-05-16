@@ -1,4 +1,5 @@
 import React from "react";
+import "./header.css";
 
 export default function Header() {
   return (
@@ -6,8 +7,8 @@ export default function Header() {
       <div className="scroll_box">
         <div className="scrolling-text">
           <h2>
-            NATURE NATURE NATURE NATURE NATURE NATURE NATURENATURE NATURE NATURE
-            NATURE NATURE NATURE NATURE
+            NATURE NATURE NATURE NATURE NATURE NATURE NATURE NATURE NATURE
+            NATURE NATURE NATURE NATURE NATURE
           </h2>
         </div>
       </div>
