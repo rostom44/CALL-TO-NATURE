@@ -51,12 +51,8 @@ export default function RepeatWindow() {
             X
           </button>
         </div>
-        <img
-          alt={dataMignon.data[counter].index}
-          src={dataMignon.data[counter].lien}
-        />
-        <p>{dataMignon.data[counter].index}</p>
-
+        <img alt={data.data[counter].format} src={data.data[counter].lien} />
+        <p>{data.data[counter].index}</p>
         <button>JE FAIS MA PAUSE</button>
       </div>
       <div className="secondTimer">
