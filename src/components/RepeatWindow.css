@@ -3,6 +3,7 @@
   max-width: 30vw;
   background-color: #EFE8C5;
   position: absolute;
+  z-index: 1;
 }
 
 .topWindow {
