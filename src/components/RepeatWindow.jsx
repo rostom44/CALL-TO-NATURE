@@ -1,6 +1,6 @@
 import "./RepeatWindow.css";
 import { useState, useEffect } from "react";
-import dataMignon from '../assets/images_mignon.json'
+import dataMignon from "../assets/images_mignon.json";
 
 export default function RepeatWindow() {
   const [counter, SetCounter] = useState(0);
@@ -17,6 +17,19 @@ export default function RepeatWindow() {
     SetLeftWindow(Math.random() * 960);
     setTimeRemaining(timeRemaining + 5);
 
+    // Create a new audio element and set its src attribute to the current image's lien property
+    const audioElement = document.createElement("audio");
+    audioElement.src = dataMignon.data[counter].sound_cool;
+    audioElement.controls = false;
+    audioElement.onLoadedMetadata = (e) => {
+      e.target.currentTime = 0;
+      e.target.duration = 4;
+      e.target.play();
+    };
+
+    // Append the audio element to the window div
+    const windowDiv = document.querySelector(".window");
+    windowDiv.appendChild(audioElement);
   }
 
   useEffect(() => {
@@ -38,8 +51,12 @@ export default function RepeatWindow() {
             X
           </button>
         </div>
-        <img alt={dataMignon.data[counter].index} src={dataMignon.data[counter].lien} />
+        <img
+          alt={dataMignon.data[counter].index}
+          src={dataMignon.data[counter].lien}
+        />
         <p>{dataMignon.data[counter].index}</p>
+
         <button>JE FAIS MA PAUSE</button>
       </div>
       <div className="secondTimer">
