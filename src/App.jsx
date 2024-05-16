@@ -6,7 +6,6 @@ import Header from "./components/Header";
 
 function App() {
   const [timeDone , setTimeDone] = useState(false)
-  console.log(timeDone)
   return (
     <>
       <TimerStart setTimeDone={setTimeDone} />
