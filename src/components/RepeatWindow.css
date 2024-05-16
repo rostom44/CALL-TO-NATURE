@@ -9,6 +9,10 @@
   align-items: center;
 }
 
+.window  img{
+  max-width: 20vw;
+}
+
 .topWindow {
   display: flex;
   justify-content: space-between;
