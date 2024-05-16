@@ -1,7 +1,9 @@
 import "./App.css";
 
 function App() {
-  return <></>;
+  return <>
+    <RepeatWindow/>
+  </>;
 }
 
 export default App;
