@@ -32,6 +32,7 @@ export default function RepeatWindow() {
     return () => clearTimeout(timer);
   }, [timeRemaining]);
 
+  console.log(counter);
   return (
     <>
       <div className="window" style={{ top: topWindow, left: leftWindow }}>
