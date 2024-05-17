@@ -42,3 +42,16 @@
   gap: 1rem;
   background-color: #efe8c5;
 }
+
+.gotoPause {
+  z-index: 1;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 35vw;
+  color: red;
+  position: absolute;
+  font-size: xx-large;
+}

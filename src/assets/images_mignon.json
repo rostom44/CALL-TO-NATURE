@@ -103,7 +103,7 @@
       "format": "image",
       "categorie": "mignon",
       "lien": "../src/assets/Mignon/téléchargement (24).jpeg",
-      "citation": "",
+      "citation": "Les montagnes nous rappellent que les obstacles sont là pour être surmontés, pas pour nous arrêter.",
       "sound_cool": "../src/assets/sons_soft/collect-points-190037.mp3"
     },
     {
@@ -127,7 +127,7 @@
       "format": "image",
       "categorie": "mignon",
       "lien": "../src/assets/Mignon/téléchargement (46).jpeg",
-      "citation": "",
+      "citation": "S'éloigner de l'écran pour se rapprocher des étoiles.",
       "sound_cool": "../src/assets/sons_soft/cry-of-a-peacock_animal-sound-145793.mp3"
     },
     {
@@ -143,7 +143,7 @@
       "format": "image",
       "categorie": "mignon",
       "lien": "../src/assets/Mignon/images (17).jpeg",
-      "citation": "",
+      "citation": "Allons au pays du soleil Levant , nous avons le soleil mais pas le vent",
       "sound_cool": "../src/assets/sons_soft/cute-animal-squeak-4-188098.mp3"
     },
     {
@@ -254,8 +254,8 @@
       "index": 30,
       "format": "image",
       "categorie": "mignon",
-      "lien": "src/assets/Mignon/téléchargement (27).jpeg",
-      "citation": "",
+      "lien": "../src/assets/Mignon/téléchargement (27).jpeg",
+      "citation": "Les arbres sont les antennes qui captent les messages de la terre et les transmettent à nos âmes.",
       "sound_cool": "../src/assets/sons_soft/huh-001-120387.mp3"
     },
     {
@@ -319,7 +319,7 @@
       "format": "image",
       "categorie": "mignon",
       "lien": "../src/assets/Mignon/téléchargement (37).jpeg",
-      "citation": "",
+      "citation": "Si tu travailles avec un marteau-piqueur pendant un tremblement de terre, désynchronise-toi, sinon tu travailles pour rien.",
       "sound_cool": "../src/assets/sons_soft/oh-no-the-car-exploded-10632.mp3"
     },
     {
@@ -327,7 +327,7 @@
       "format": "image",
       "categorie": "mignon",
       "lien": "../src/assets/Mignon/téléchargement (39).jpeg",
-      "citation": "",
+      "citation": "Celui qui préfère le sourire à la colère est toujours le plus fort.",
       "sound_cool": "../src/assets/sons_soft/one-language-i-speak-for-some-reason-181274.mp3"
     },
     {
@@ -335,15 +335,15 @@
       "format": "image",
       "categorie": "mignon",
       "lien": "../src/assets/Mignon/téléchargement (40).jpeg",
-      "citation": "",
+      "citation": "« La vie, ce n’est pas d’attendre que les orages passent, c’est d’apprendre à danser sous la pluie. »",
       "sound_cool": "../src/assets/sons_soft/pet.mp3"
     },
     {
       "index": 41,
       "format": "image",
       "categorie": "mignon",
-      "lien": "src/assets/Mignon/téléchargement (41).jpeg",
-      "citation": "",
+      "lien": "../src/assets/Mignon/téléchargement (41).jpeg",
+      "citation": "Dans la nature, on trouve la paix qui échappe souvent à la ville agitée.",
       "sound_cool": "../src/assets/sons_soft/pipe-117724.mp3"
     },
     {
@@ -351,47 +351,47 @@
       "format": "image",
       "categorie": "mignon",
       "lien": "../src/assets/Mignon/téléchargement (43).jpeg",
-      "citation": "",
+      "citation": "La simplicité de la nature est la clé de sa beauté éternelle.",
       "sound_cool": "../src/assets/sons_soft/robot-noises-70217.mp3"
     },
     {
       "index": 43,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/téléchargement (43).jpeg",
-      "citation": "",
+      "lien": "../src/assets/Moche/axolotl-cute-weird.jpg",
+      "citation": "Dans le silence des grands espaces, nos pensées s'apaisent et notre esprit s'élève.",
       "sound_cool": "../src/assets/sons_soft/scary-monster-growl-roar-11-202957.mp3"
     },
     {
       "index": 44,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/téléchargement (43).jpeg",
-      "citation": "",
+      "lien": "../src/assets/Moche/images (5).jpeg",
+      "citation": "S'éloigner de l'écran pour se rapprocher des étoiles.",
       "sound_cool": "../src/assets/sons_soft/sinister-laugh-140131.mp3"
     },
     {
       "index": 45,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/téléchargement (43).jpeg",
-      "citation": "",
+      "lien": "../src/assets/Moche/images (11).jpeg",
+      "citation": "Allons au pays du soleil Levant , nous avons le soleil mais pas le vent",
       "sound_cool": "../src/assets/sons_soft/small-dog-barking-102658.mp3"
     },
     {
       "index": 46,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/téléchargement (43).jpeg",
-      "citation": "",
+      "lien": "../src/assets/Moche/images (20).jpeg",
+      "citation": "N'est pas panda qui veut",
       "sound_cool": "../src/assets/sons_soft/small-rock-break-194553.mp3"
     },
     {
       "index": 47,
       "format": "image",
       "categorie": "mignon",
-      "lien": "../src/assets/Mignon/téléchargement (43).jpeg",
-      "citation": "",
+      "lien": "../src/assets/Moche/images (12).jpeg",
+      "citation": "Nature toi bien !",
       "sound_cool": "../src/assets/sons_soft/steam-train-at-crossing-62158.mp3"
     },
     {
@@ -399,24 +399,336 @@
       "format": "image",
       "categorie": "mignon",
       "lien": "../src/assets/Mignon/téléchargement (43).jpeg",
-      "citation": "",
+      "citation": "Nous comprenons la nature en lui résistant.",
       "sound_cool": "../src/assets/sons_soft/steam-train-at-crossing-62158.mp3"
     },
     {
       "index": 49,
       "format": "image",
-      "categorie": "mignon",
-      "lien": "../src/assets/Mignon/téléchargement (43).jpeg",
-      "citation": "",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/images (14).jpeg",
+      "citation": "Dans le silence des grands espaces, nos pensées s'apaisent et notre esprit s'élève.",
       "sound_cool": "../src/assets/sons_soft/toy-ducks-quacking-82167.mp3"
     },
     {
       "index": 50,
       "format": "image",
-      "categorie": "mignon",
-      "lien": "../src/assets/Mignon/téléchargement (43).jpeg",
-      "citation": "",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/images (15).jpeg",
+      "citation": "Chuck Norris a déjà planté une racine carrée.",
       "sound_cool": "../src/assets/sons_soft/wet-fart-6139.mp3"
+    },
+    {
+      "index": 51,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/images (21).jpeg",
+      "citation" : "Les plantes par exemple, qui n'ont pas de mains, et pas d'oreeilles, elles sentent les choses, les vibrations, elles sont plus aware que les autres species.",
+      "sound_cool":"../src/assets/sons_ding/angry-baby-cry-36152.mp3"
+    },
+    {
+      "index": 52,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/images (22).jpeg",
+      "citation" : "Bon ça suffit , prends ta pause !",
+      "sound_cool":"../src/assets/sons_ding/cats-kittens-dogs-92801.mp3"
+    },
+    {
+      "index": 53,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/images (28).jpeg",
+      "citation" : "Je vais prendre le cric , la bombe lacrymogène, attention !",
+      "sound_cool":"../src/assets/sons_ding/danger-203290.mp3"
+    },
+    {
+      "index": 54,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/images (29).jpeg",
+      "citation" : "Ce n’est pas moi qui suis enfermé avec vous, mais vous qui êtes enfermés avec moi !",
+      "sound_cool":"../src/assets/sons_ding/demonic-woman-scream-6333.mp3"
+    },
+    {
+      "index": 55,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/images (30).jpeg",
+      "citation" : "La roue tourne va tourner",
+      "sound_cool":"../src/assets/sons_ding/epic-metal-gate-105854.mp3"
+    },
+    {
+      "index": 56,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/images (31).jpeg",
+      "citation" : "La vie c’est comme une boîte de chocolats, on ne sait jamais sur quoi on va tomber.",
+      "sound_cool":"../src/assets/sons_ding/scream-121575.mp3"
+    },
+    {
+      "index": 57,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/images (32).jpeg",
+      "citation" : "Si en Amérique on fait bling-bling , ici, on fait bang-bang",
+      "sound_cool":"../src/assets/sons_ding/sliding-chair-or-table-108310.mp3"
+    },
+    {
+      "index": 58,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/images (33).jpeg",
+      "citation" : "Toi tu commences à me baver sur les rouleaux",
+      "sound_cool":"../src/assets/sons_soft/cats-meow-81221.mp3"
+    },
+    {
+      "index": 59,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/images (36).jpeg",
+      "citation" : "Penser que la vie humaine ne peut être régie que par la raison, c'est nier la possibilité même de la vivre.",
+      "sound_cool":"../src/assets/sons_soft/cowabunga-voiced-165997.mp3"
+    },
+    {
+      "index": 60,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/images.jpeg",
+      "citation" : "A l'amour, la gloire, l'argent, la loyauté, la justice, je préfère la vérité",
+      "sound_cool":"../src/assets/sons_soft/emergency-alarm-with-reverb-29431.mp3"
+    },
+    {
+      "index": 61,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/photo-1589358141768-0be9002874f0.avif",
+      "citation" : "Dans la nature, tout a toujours une raison. Si tu comprends cette raison, tu n'as plus besoin de l'expérience.",
+      "sound_cool":"../src/assets/sons_soft/goofy-ahh-car-horn-200870.mp3"
+    },
+    {
+      "index": 62,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/téléchargement (1).jpeg",
+      "citation" : "Ce qui reste éternellement incompréhensible dans la nature, c'est qu'on puisse la comprendre.",
+      "sound_cool":"../src/assets/sons_soft/medieval-fanfare-6826.mp3"
+    },
+    {
+      "index": 63,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/téléchargement (2).jpeg",
+      "citation" : "Dans le tissu de l'espace comme dans la nature de la matière, figure, en tout petit, la signature de l'artiste.",
+      "sound_cool":"../src/assets/sons_soft/pet.mp3"
+    },
+    {
+      "index": 64,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/téléchargement (3).jpeg",
+      "citation" : "L'espoir de l'avenir, il est dans la nature et dans les hommes qui restent fidèles à la nature.",
+      "sound_cool":"../src/assets/sons_soft/steam-train-at-crossing-62158.mp3"
+    },
+    {
+      "index": 65,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/téléchargement (4).jpeg",
+      "citation" : "Que le liquide qui coule dans tes mains te servira à vivre jusqu'à demain matin !",
+      "sound_cool":"../src/assets/sons_soft/wowowowowowowow-103214.mp3"
+    },
+    {
+      "index": 66,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/téléchargement (5).jpeg",
+      "citation" : "La beauté est une omniprésence de la mort et du charme, une tristesse souriante qu'on discerne dans la nature et en toute chose.",
+      "sound_cool":"../src/assets/sons_soft/collect-points-190037.mp3"
+    },
+    {
+      "index": 67,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/téléchargement (6).jpeg",
+      "citation" : "Il y a moins de désordre dans la nature que dans l'humanité.",
+      "sound_cool":"../src/assets/sons_soft/emergency-alarm-with-reverb-29431.mp3"
+    },
+    {
+      "index": 68,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/téléchargement (7).jpeg",
+      "citation" : "La verité est dans la nature, et je le prouverai.",
+      "sound_cool":"../src/assets/sons_ding/angry-baby-cry-36152.mp3"
+    },
+    {
+      "index": 69,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/téléchargement (8).jpeg",
+      "citation" : "Quand c'est l'hiver , quand ça fait froid , qu'une chose à faire gars , écoutes ça !",
+      "sound_cool":"../src/assets/sons_ding/cats-kittens-dogs-92801.mp3"
+    },
+    {
+      "index": 70,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/téléchargement (44).jpeg",
+      "citation" : "Ca fait rire les oiseaux , ça fait chanter les abeilles.",
+      "sound_cool":"../src/assets/sons_ding/danger-203290.mp3"
+    },
+    {
+      "index": 71,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/téléchargement (10).jpeg",
+      "citation" : "La spectacle de la nature est toujours beau.",
+      "sound_cool":"../src/assets/sons_ding/demonic-woman-scream-6333.mp3"
+    },
+    {
+      "index": 72,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/téléchargement (11).jpeg",
+      "citation" : "La nature agit, l'homme fait.",
+      "sound_cool":"../src/assets/sons_ding/epic-metal-gate-105854.mp3"
+    },
+    {
+      "index": 73,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/téléchargement (12).jpeg",
+      "citation" : "La raison nous trompe plus que la nature.",
+      "sound_cool":"../src/assets/sons_ding/scream-121575.mp3"
+    },
+    {
+      "index": 74,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/téléchargement (13).jpeg",
+      "citation" : "La nature est un professeur universel et sûr pour celui qui l'observe.",
+      "sound_cool":"../src/assets/sons_ding/sliding-chair-or-table-108310.mp3"
+    },
+    {
+      "index": 75,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/téléchargement (14).jpeg",
+      "citation" : "Nous vivons trop dans les écrans et pas assez dans la nature.",
+      "sound_cool":"../src/assets/sons_soft/toy-ducks-quacking-82167.mp3"
+    },
+    {
+      "index": 76,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/téléchargement (15).jpeg",
+      "citation" : "Dans la nature, chaque lever de soleil est une nouvelle chance, une nouvelle naissance.",
+      "sound_cool":"../src/assets/sons_soft/epic-trap-intro-185815.mp3"
+    },
+    {
+      "index": 77,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/téléchargement (17).jpeg",
+      "citation" : "Dans le silence des grands espaces, nos pensées s'apaisent et notre esprit s'élève.",
+      "sound_cool":"../src/assets/sons_soft/goofy-ahh-car-horn-200870.mp3"
+    },
+    {
+      "index": 78,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/téléchargement (16).jpeg",
+      "citation" : "Celui qui préfère le sourire à la colère est toujours le plus fort.",
+      "sound_cool":"../src/assets/sons_soft/medieval-fanfare-6826.mp3"
+    },
+    {
+      "index": 79,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/téléchargement (18).jpeg",
+      "citation" : "Il ne sert de rien à l’homme de gagner la Lune s’il vient à perdre la Terre.",
+      "sound_cool":"../src/assets/sons_soft/steam-train-at-crossing-62158.mp3"
+    },
+    {
+      "index": 80,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/téléchargement (19).jpeg",
+      "citation" : "La technologie nous connecte au monde, mais la nature nous connecte à nous-mêmes.",
+      "sound_cool":"../src/assets/sons_soft/emergency-alarm-with-reverb-29431.mp3"
+    },
+    {
+      "index": 81,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/téléchargement (20).jpeg",
+      "citation" : "Adopte le rythme de la nature, son secret est la patience.",
+      "sound_cool":"../src/assets/sons_soft/la-charte-trompette-64523.mp3"
+    },
+    {
+      "index": 82,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/téléchargement (21).jpeg",
+      "citation" : "La simplicité de la nature est la clé de sa beauté éternelle.",
+      "sound_cool":"../src/assets/sons_ding/angry-baby-cry-36152.mp3"
+    },
+    {
+      "index": 83,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/téléchargement (22).jpeg",
+      "citation" : "La nature ne se précipite jamais, pourtant tout est accompli.",
+      "sound_cool":"../src/assets/sons_ding/sliding-chair-or-table-108310.mp3"
+    },
+    {
+      "index": 84,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/téléchargement (30).jpeg",
+      "citation" : "Les arbres sont les antennes qui captent les messages de la terre et les transmettent à nos âmes.",
+      "sound_cool":"../src/assets/sons_soft/pipe-117724.mp3"
+    },
+    {
+      "index": 85,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/téléchargement (31).jpeg",
+      "citation" : "Respecter la nature, c'est se respecter soi-même et les générations futures.",
+      "sound_cool":"../src/assets/sons_soft/collect-points-190037.mp3"
+    },
+    {
+      "index": 86,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/téléchargement (42).jpeg",
+      "citation" : "Dans le silence des grands espaces, nos pensées s'apaisent et notre esprit s'élève.",
+      "sound_cool":"../src/assets/sons_soft/flock-of-crows-ravens-cawing-129073.mp3"
+    },
+    {
+      "index": 87,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/téléchargement (38).jpeg",
+      "citation" : "S'éloigner de l'écran pour se rapprocher des étoiles.",
+      "sound_cool":"../src/assets/sons_soft/emergency-alarm-with-reverb-29431.mp3"
+    },
+    {
+      "index": 88,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/téléchargement (45).jpeg",
+      "citation" : "Les roses sont rouges et les violettes sont bleues, je t’emmerde, sale pute.",
+      "sound_cool":"../src/assets/sons_soft/cats-meow-81221.mp3"
+    },
+    {
+      "index": 89,
+      "format": "image",
+      "categorie": "moche",
+      "lien": "../src/assets/Moche/téléchargement.jpeg",
+      "citation" : "La nature n'a pas besoin de filtres pour être belle, elle est pure et authentique.",
+      "sound_cool":"../src/assets/sons_soft/angry-beast-6172.mp3"
     }
   ]
 }
