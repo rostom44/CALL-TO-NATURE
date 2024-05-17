@@ -5,7 +5,7 @@
 }
 body {
   height: 100vh; /* Set height to 100% of viewport height */
-  background-image: url("src/assets/bg-nature.gif"); /* Path to your GIF file */
+  background-image: url("src/assets/bg-nature.gif");/*  Path to your GIF file */
   background-size: cover;
   width: 100%;
   background-attachment: fixed;
